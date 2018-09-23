@@ -5,7 +5,7 @@ Gadjah Mada Electronic Nose
 
 ## GeNose Datalogger
 
-Release version 1.0.1 on 21 September 2018 at 2:49:16 PM
+Release version 1.0.1 on 23 September 2018 at 10:54:44 PM
 
 [**Download**](https://drive.google.com/file/d/1Q4c7rVsNXHcYJ7sg0J9bv4-SdGJWo_dM/view?usp=sharing)
 
@@ -27,13 +27,15 @@ The feature extraction data and the analytical tool for multivariate data experi
 
 ## Download
 
-- TOR-C Analytical Tool 3 Version 3.0.2 can be download in [this](http://bit.ly/TOR-CAPP3).
-- [Update only Version 3.0.2](https://drive.google.com/file/d/1BBMc-HrB9_yJb04zetVyHlEMjwaYfR2E/view?usp=sharing)
+- TOR-C Analytical Tool 3 Version 3.0.3 can be download in [this](http://bit.ly/TOR-CAPP3).
+- [Update only Version 3.0.3](https://drive.google.com/file/d/1BBMc-HrB9_yJb04zetVyHlEMjwaYfR2E/view?usp=sharing)
 
 ### Release History
 
 **TOR-C Analytical Tool**
 
+- Version 3.0.3: bux fixed scroll bar with mouse wheel and add caret packages list in Help
+- Version 3.0.2: small changes
 - Version 3.0.1: small bux fixed if fail open last folder
 - Version 3.0.0: Introduction NEW TOR-C Analytical Tool 3
 - Version 2.0.9.1: update TOR-C Analytica App to 1.7.3
