@@ -1,7 +1,7 @@
 # GeNose
 Gadjah Mada Electronic Nose
 
-![](https://github.com/torcugm/GeNose/blob/master/Poster%20GeNose%202018.jpg)
+![alt text](https://raw.githubusercontent.com/torcugm/GeNose/master/Poster%20GeNose%202018.jpg)
 
 ## GeNose Datalogger
 
