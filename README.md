@@ -1,6 +1,8 @@
 # GeNose
 Gadjah Mada Electronic Nose
 
+![](https://github.com/torcugm/GeNose/blob/master/Poster%20GeNose%202018.jpg)
+
 ## GeNose Datalogger
 
 Release version 1.0.1 on 9 September 2018 at 2:49:16 PM
