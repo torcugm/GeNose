@@ -5,7 +5,7 @@ Gadjah Mada Electronic Nose
 
 ## GeNose Datalogger
 
-Release version 1.0.1 on 9 September 2018 at 2:49:16 PM
+Release version 1.0.1 on 21 September 2018 at 2:49:16 PM
 
 [**Download**](https://drive.google.com/file/d/1Q4c7rVsNXHcYJ7sg0J9bv4-SdGJWo_dM/view?usp=sharing)
 
