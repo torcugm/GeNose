@@ -9,6 +9,8 @@ Release version 1.0.1 on 23 September 2018 at 10:54:44 PM
 
 [**Download**](https://drive.google.com/file/d/1Q4c7rVsNXHcYJ7sg0J9bv4-SdGJWo_dM/view?usp=sharing)
 
+Note: Need .Net framework 4.6.1. (Windows 7 SP1, Windows 8/8.1) [Download .Net](https://www.microsoft.com/en-us/download/details.aspx?id=49982)
+
 ## TOR-C Analytical Tool
 
 The feature extraction data and the analytical tool for multivariate data experiment.
