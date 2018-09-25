@@ -36,7 +36,7 @@ The feature extraction data and the analytical tool for multivariate data experi
 
 **TOR-C Analytical Tool**
 
-- Version 3.0.3: update TOR-C Analytical App 1.7.4
+- Version 3.0.3.174: update TOR-C Analytical App 1.7.4
 - Version 3.0.3: bux fixed scroll bar with mouse wheel and add caret packages list in Help
 - Version 3.0.2: small changes
 - Version 3.0.1: small bux fixed if fail open last folder
