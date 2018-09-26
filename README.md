@@ -29,13 +29,14 @@ The feature extraction data and the analytical tool for multivariate data experi
 
 ## Download
 
-- TOR-C Analytical Tool 3 Version 3.0.3.174 can be download in [this](http://bit.ly/TOR-CAPP3).
-- [Update only Version 3.0.3.174](https://drive.google.com/file/d/1BBMc-HrB9_yJb04zetVyHlEMjwaYfR2E/view?usp=sharing)
+- TOR-C Analytical Tool 3 Version 3.0.3.175 can be download in [this](http://bit.ly/TOR-CAPP3).
+- [Update only Version 3.0.3.175](https://drive.google.com/file/d/1BBMc-HrB9_yJb04zetVyHlEMjwaYfR2E/view?usp=sharing)
 
 ### Release History
 
 **TOR-C Analytical Tool**
 
+- Version 3.0.3.175: update TOR-C Analytical App 1.7.5
 - Version 3.0.3.174: update TOR-C Analytical App 1.7.4
 - Version 3.0.3: bux fixed scroll bar with mouse wheel and add caret packages list in Help
 - Version 3.0.2: small changes
@@ -62,7 +63,8 @@ The feature extraction data and the analytical tool for multivariate data experi
 
 **TOR-C Analytical App (WebApp)**
 
-- Verison 1.7.4: Performance optimize
+- Version 1.7.5: add 3D plot LDA (if LD > 2) and UI improvement
+- Version 1.7.4: Performance optimize
 - Version 1.7.3: Add 3D Plot PCA, improve UI
 - Version 1.7.2: Add ROC and RADAR plot (beta), Improve UI.
 - Version 1.7.0
