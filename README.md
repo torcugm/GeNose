@@ -33,8 +33,8 @@ The feature extraction data and the analytical tool for multivariate data experi
 - [Update only Version 3.0.4.178](https://drive.google.com/file/d/1BBMc-HrB9_yJb04zetVyHlEMjwaYfR2E/view?usp=sharing)
 
 #### Required
-- Pandoc [download](https://github.com/jgm/pandoc/releases/latest)
-- For PDF output, you’ll also need to install LaTeX. We recommend [MiKTeX](https://miktex.org/)
+- For Quick Report, you'll need to install Pandoc. Please [download](https://github.com/jgm/pandoc/releases/latest) and install Pandoc.
+- For PDF output, you’ll also need to install LaTeX. We recommend [MiKTeX](https://miktex.org/).
 
 ### Release History
 
