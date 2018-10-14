@@ -7,7 +7,7 @@ Gadjah Mada Electronic Nose
 
 Release version 1.0.1 on 11 October 2018 at 09:50:18 AM
 
-[**Download**](https://drive.google.com/file/d/1Q4c7rVsNXHcYJ7sg0J9bv4-SdGJWo_dM/view?usp=sharing)
+[**Download**](mailto::torc.ugm@gmail.com)
 
 Note: Need .Net framework 4.6.1. (Windows 7 SP1, Windows 8/8.1) [Download .Net](https://www.microsoft.com/en-us/download/details.aspx?id=49982)
 
@@ -35,7 +35,7 @@ The feature extraction data and the analytical tool for multivariate data experi
 
 ## Download
 
-- TOR-C Analytical Tool 3 Version 3.0.4.178 can be download in [this](http://bit.ly/TOR-CAPP3).
+- TOR-C Analytical Tool 3 Version 3.0.4.178 can be download in [this](mailto::torc.ugm@gmail.com).
 - [Update only Version 3.0.4.178](https://drive.google.com/file/d/1BBMc-HrB9_yJb04zetVyHlEMjwaYfR2E/view?usp=sharing)
 
 #### Required
