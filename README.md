@@ -23,20 +23,23 @@ The feature extraction data and the analytical tool for multivariate data experi
 
 ### List of Feature Extractions
 
-- F1 - baseline time set value 
-- F2 - baseline maximum value 
+- F1 - different time set
+- F2 - different 
 - F3 - maximum value 
 - F4 - time set value 
 - F5 - fractional time set value 
-- F6 - fractional maximum value 
-- F7 - baseline area under curve time set
+- F6 - fractional difference value 
+- F7 - difference area under curve time set
 - F8 - fractional area under curve time set
 - F9 - area under curve time set
+- F10 - logarithm difference	
+- F11 - relative difference
+- F12 - piecewise function coeficients (dynamic response)
 
 ## Download
 
 - TOR-C Analytical Tool 3 Version 3.0.4.178 can be download in [this](mailto::torc.ugm@gmail.com).
-- [Update only Version 3.0.4.180](https://drive.google.com/file/d/13PuaGfumisD2BTdyB9C4NVp0nn9LQby_/view?usp=sharing)
+- [Update only Version 3.0.4.181](https://drive.google.com/file/d/13PuaGfumisD2BTdyB9C4NVp0nn9LQby_/view?usp=sharing)
 
 #### Required
 - For Quick Report, you'll need to install Pandoc. Please [download](https://github.com/jgm/pandoc/releases/latest) and install Pandoc.
@@ -46,6 +49,7 @@ The feature extraction data and the analytical tool for multivariate data experi
 
 **TOR-C Analytical Tool**
 
+- Version 3.0.4.181: update TOR-C Analytical App 1.8.1 and Update TOR-C Master 1.4.1
 - Version 3.0.4.180: update TOR-C Analytical App 1.8.0
 - Version 3.0.4.178: Add quick analytical report and update TOR-C Analytical App 1.7.8
 - Version 3.0.3.176: update TOR-C Analytical App 1.7.6
@@ -76,6 +80,7 @@ The feature extraction data and the analytical tool for multivariate data experi
 
 **TOR-C Analytical App (WebApp)**
 
+- Version 1.8.1: add compare predictive modeling, UI improvement, performance improvement
 - Version 1.8.0: improve performance and add refresh app (main function refresh).
 - Version 1.7.8: update UI and improve 3D plot
 - Version 1.7.6: add The confidence level of ellipse for PCA and LDA plot
